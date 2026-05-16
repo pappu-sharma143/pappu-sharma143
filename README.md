@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,express,python,django,mongodb,postgresql,mysql,git,github,vscode,postman,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,python,django,postgresql,mysql,git,github,vscode,postman&theme=dark" />
 
 </div>
 
@@ -48,7 +48,7 @@ Feel free to reach out to me!
 
 <br>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="www.linkedin.com/in/pappu-sharma-9190bb2b4">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -61,25 +61,24 @@ Feel free to reach out to me!
 </a>
 
 </div>
-```
 
 
 # 📌 Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🎓 **EduSanctum** | Student Q&A Learning Platform | Django, PostgreSQL |
-| 🩺 **Chest Abnormalities Detection** | AI-based X-ray Detection System | YOLOv5, OpenCV |
-| 🛒 **E-Commerce Backend API** | JWT-secured REST APIs | Django REST |
-| 📚 **Library Management API** | Role-based CRUD APIs | Django, JWT |
-| 🌱 **AgroGuard** | AI Plant Disease Detection App | Flutter, AI |
-| 📊 **PhonePe Dashboard** | Transaction Analytics Dashboard | Python, Streamlit |
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
+|------------|----------------|----------------|
+| 🎓 **EduSanctum** | Student learning Q&A platform with authentication, discussions, and notifications | Django, PostgreSQL |
+| 🩺 **Chest Abnormalities Detection** | AI-powered chest X-ray abnormality detection system | YOLOv5, OpenCV |
+| 🛒 **E-Commerce Backend API** | REST APIs for authentication, cart, and order management | Django REST Framework |
+| 📚 **Library Management API** | JWT-secured role-based CRUD API system | Django, JWT |
+| 🔐 **Image Steganography Tool** | Hide and retrieve encrypted messages inside images | Python, OpenCV |
 
 </div>
 
 ---
+
 
 # 📊 GitHub Analytics
 
